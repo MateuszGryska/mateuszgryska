@@ -1,6 +1,6 @@
 ![header](header.png)
 
-### Hi! I live in Poland and I am a beginner frontend developer, who is passionate about web technologies. <a href="https://github.com/MateuszGryska?tab=repositories">Check out my projects</a>!
+### Hi! I live in Poland and I am a beginner frontend developer, who is passionate about web technologies. <a target="_blank" href="https://github.com/MateuszGryska?tab=repositories">Check out my projects</a>!
 
 # Skills
 
@@ -76,7 +76,7 @@
 
 <div align="center">
 
-   <a href="https://www.linkedin.com/in/mateusz-gryska/">
+   <a target="_blank href="https://www.linkedin.com/in/mateusz-gryska/">
     <img src="badges/linkedin.png" alt="linkedin" style="vertical-align:top; margin:6px 4px">
   </a>  
      <a href="mailto: matthew.gryska@gmail.com">
