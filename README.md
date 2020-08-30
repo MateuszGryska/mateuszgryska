@@ -76,7 +76,7 @@
 
 <div align="center">
 
-   <a target="_blank href="https://www.linkedin.com/in/mateusz-gryska/">
+   <a target="_blank" href="https://www.linkedin.com/in/mateusz-gryska/">
     <img src="badges/linkedin.png" alt="linkedin" style="vertical-align:top; margin:6px 4px">
   </a>  
      <a href="mailto: matthew.gryska@gmail.com">
