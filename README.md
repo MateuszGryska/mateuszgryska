@@ -1,4 +1,4 @@
-
+![header](header.png)
 
 Hi! I live in Poland and I am a beginner frontend developer, who is passionate about web technologies. <a target="_blank" href="https://github.com/MateuszGryska?tab=repositories">Check out my projects</a>!
 
